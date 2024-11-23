@@ -1,0 +1,1 @@
+person1={'name':'vasukkuttan','age':25,'country':'uganda'}
